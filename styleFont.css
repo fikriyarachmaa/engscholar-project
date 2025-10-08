@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(fontMontserrat/Montserrat-Regular.otf);
+}
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url(fontMontserrat/Montserrat-Light.otf);
+}
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url(fontMontserrat/Montserrat-SemiBold.otf);
+}
+@font-face {
+    font-family: 'Montserrat-ExtraBold';
+    src: url(fontMontserrat/Montserrat-ExtraBold.otf);
+}
+
+p {
+    font-family: 'Montserrat-Light';
+    font-size: 100%;
+}
+.text1 {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 100%;
+    color: white;
+}
+.text2 {
+    font-family: 'Montserrat-ExtraBold';
+    font-size: 100%;
+}
+.text3{
+    font-family: 'Montserrat-SemiBold';
+    font-size: 100%;
+    color: #3A5BA0;
+    text-decoration: none;
+}
+.text4{
+    font-family: 'Montserrat-SemiBold';
+    font-size: 100%;
+    color: #FFA500;
+    text-decoration: none;
+}
+.btn {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 100%;
+}
+.hPromo {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 48px;
+    background-image: linear-gradient(to right, #e16c1d, #e6823f, #b6d423);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+.card-title {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 18px;
+}
+.faq-title {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 32px;
+}
+.faq-head {
+    font-family: 'Montserrat-Light';
+    font-size: 14px;
+}
+h5 {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 18px;
+}
+.engscholar {
+    font-family: 'Montserrat-SemiBold';
+    font-size: 48px;
+    background-image: linear-gradient(to right, #62bbd8, #3b58cb, #8ed798);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
